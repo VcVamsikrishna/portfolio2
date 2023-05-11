@@ -1,0 +1,37 @@
+ body{
+            text-align:center;
+        }
+        header{
+            background-color: black;
+            color: aliceblue;
+        }
+        nav ul li{
+
+            display: inline;
+            padding: 20px;
+
+        }
+        nav ul li a{
+            color: blanchedalmond;
+            text-decoration:none ;
+        }
+        main P{
+            padding: 10px;
+        }
+        img{
+            height: 200px;
+            width: 200px;
+            border-radius: 200px;
+            padding: 20px;
+        }
+        #portfolio
+        {
+            background-color: rgb(226, 146, 48);
+        }
+        li{
+            display: inline;
+        }
+        footer{
+            background-color: black;
+            color: aqua;
+        }
